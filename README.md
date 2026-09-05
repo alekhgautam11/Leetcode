@@ -9,4 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/alekhgautam11/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
