@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/alekhgautam11/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
+| [3870-count-commas-in-range](https://github.com/alekhgautam11/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
 | ------- |
