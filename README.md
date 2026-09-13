@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alekhgautam11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/alekhgautam11/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/alekhgautam11/Leetcode/tree/master/0164-maximum-gap) |
+| [0835-image-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
