@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/alekhgautam11/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/alekhgautam11/Leetcode/tree/master/0164-maximum-gap) |
 | [0835-image-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0835-image-overlap) |
+| [2206-divide-array-into-equal-pairs](https://github.com/alekhgautam11/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/alekhgautam11/Leetcode/tree/master/0136-single-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/alekhgautam11/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/alekhgautam11/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Recursion
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0836-rectangle-overlap) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/alekhgautam11/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
