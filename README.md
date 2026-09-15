@@ -53,16 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alekhgautam11/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alekhgautam11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/alekhgautam11/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alekhgautam11/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
