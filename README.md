@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/alekhgautam11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/alekhgautam11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alekhgautam11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/alekhgautam11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/alekhgautam11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/alekhgautam11/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/alekhgautam11/Leetcode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/alekhgautam11/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/alekhgautam11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
