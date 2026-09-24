@@ -8,7 +8,7 @@ class Solution {
             while (left < right && !isAlphanumeric(charArr[left])) {
                 left++;
             }
-            while (left < right && !isAlphanumeric(charArr[right])) {
+           while (left < right && !isAlphanumeric(charArr[right])) {
                 right--;
             }
 
@@ -30,9 +30,6 @@ class Solution {
     }
 
     private char toLower(char c) {
-        if (c >= 'A' && c <= 'Z') {
-            return (char) (c + 32);
-        }
-        return c;
+        return (c >= 'A' && c <= 'Z') ? (char) (c + 32) : c;
     }
 }
