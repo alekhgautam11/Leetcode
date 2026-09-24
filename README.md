@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alekhgautam11/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/alekhgautam11/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/alekhgautam11/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/alekhgautam11/Leetcode/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/alekhgautam11/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/alekhgautam11/Leetcode/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/alekhgautam11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/alekhgautam11/Leetcode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/alekhgautam11/Leetcode/tree/master/0242-valid-anagram) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alekhgautam11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/alekhgautam11/Leetcode/tree/master/0242-valid-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/alekhgautam11/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
