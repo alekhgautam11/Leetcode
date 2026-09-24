@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/alekhgautam11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/alekhgautam11/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/alekhgautam11/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/alekhgautam11/Leetcode/tree/master/0125-valid-palindrome) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/alekhgautam11/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/alekhgautam11/Leetcode/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/alekhgautam11/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/alekhgautam11/Leetcode/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alekhgautam11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
