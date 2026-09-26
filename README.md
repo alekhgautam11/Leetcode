@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/alekhgautam11/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/alekhgautam11/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/alekhgautam11/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/alekhgautam11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alekhgautam11/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/alekhgautam11/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/alekhgautam11/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/alekhgautam11/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/alekhgautam11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alekhgautam11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/alekhgautam11/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
