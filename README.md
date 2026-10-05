@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/alekhgautam11/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/alekhgautam11/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/alekhgautam11/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/alekhgautam11/Leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
