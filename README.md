@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alekhgautam11/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam11/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/alekhgautam11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alekhgautam11/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam11/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/alekhgautam11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bucket Sort
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam11/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/alekhgautam11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/alekhgautam11/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/alekhgautam11/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam11/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Memoization
