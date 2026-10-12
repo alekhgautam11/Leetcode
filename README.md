@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/alekhgautam11/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/alekhgautam11/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/alekhgautam11/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/alekhgautam11/Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alekhgautam11/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/alekhgautam11/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
