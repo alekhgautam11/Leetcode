@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alekhgautam11/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/alekhgautam11/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/alekhgautam11/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alekhgautam11/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/alekhgautam11/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alekhgautam11/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/alekhgautam11/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/alekhgautam11/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/alekhgautam11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/alekhgautam11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/alekhgautam11/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/alekhgautam11/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/alekhgautam11/Leetcode/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam11/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/alekhgautam11/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/alekhgautam11/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/alekhgautam11/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -373,4 +376,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/alekhgautam11/Leetcode/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
