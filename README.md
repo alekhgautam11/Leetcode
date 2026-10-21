@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alekhgautam11/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/alekhgautam11/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/alekhgautam11/Leetcode/tree/master/0070-climbing-stairs) |
+| [0357-count-numbers-with-unique-digits](https://github.com/alekhgautam11/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/alekhgautam11/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/alekhgautam11/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/alekhgautam11/Leetcode/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/alekhgautam11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/alekhgautam11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alekhgautam11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0357-count-numbers-with-unique-digits](https://github.com/alekhgautam11/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/alekhgautam11/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/alekhgautam11/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/alekhgautam11/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/alekhgautam11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/alekhgautam11/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/alekhgautam11/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam11/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
