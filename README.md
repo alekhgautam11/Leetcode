@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/alekhgautam11/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/alekhgautam11/Leetcode/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alekhgautam11/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0500-keyboard-row](https://github.com/alekhgautam11/Leetcode/tree/master/0500-keyboard-row) |
 | [0835-image-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0835-image-overlap) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/alekhgautam11/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/alekhgautam11/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/alekhgautam11/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alekhgautam11/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/alekhgautam11/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/alekhgautam11/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/alekhgautam11/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/alekhgautam11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/alekhgautam11/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/alekhgautam11/Leetcode/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alekhgautam11/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/alekhgautam11/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alekhgautam11/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
