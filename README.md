@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/alekhgautam11/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/alekhgautam11/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/alekhgautam11/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/alekhgautam11/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/alekhgautam11/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alekhgautam11/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/alekhgautam11/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/alekhgautam11/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/alekhgautam11/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/alekhgautam11/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prime Factorization
 |  |
 | ------- |
